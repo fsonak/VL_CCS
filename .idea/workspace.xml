@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="some more markdowns, not ready yet" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fsonak&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fsonak/VL_CCS.git&quot;,
+    &quot;accountId&quot;: &quot;2f65e591-530f-42f7-b1b0-1cda127244a8&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2npc4jwHXz2pE82bge9azNobGy1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="" />
+      <created>1729673268138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729673268138</updated>
+      <workItem from="1729673269197" duration="6700000" />
+      <workItem from="1729771625653" duration="6536000" />
+      <workItem from="1729780506116" duration="1786000" />
+      <workItem from="1729791625951" duration="6821000" />
+      <workItem from="1729810897022" duration="2020000" />
+      <workItem from="1729841224048" duration="24000" />
+      <workItem from="1729841250081" duration="2303000" />
+      <workItem from="1730044693024" duration="102000" />
+      <workItem from="1730060148526" duration="5314000" />
+      <workItem from="1730067090787" duration="121000" />
+      <workItem from="1730112867344" duration="4151000" />
+      <workItem from="1730397222181" duration="11079000" />
+      <workItem from="1731005487214" duration="12066000" />
+      <workItem from="1731050947520" duration="3432000" />
+      <workItem from="1731503858492" duration="2671000" />
+      <workItem from="1731609912052" duration="10947000" />
+      <workItem from="1732226905118" duration="5425000" />
+    </task>
+    <task id="LOCAL-00001" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1729674198785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729674198785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1729686306685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729686306685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added border control,&#10;not sure if correct">
+      <option name="closed" value="true" />
+      <created>1729687138095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729687138095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="solve visualisation error of dots in plot beeing not the correct size.">
+      <option name="closed" value="true" />
+      <created>1729688438837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729688438837</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added documentation and histograms">
+      <option name="closed" value="true" />
+      <created>1729782552176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729782552176</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding top and bottom 10% histograms, but looks wrong">
+      <option name="closed" value="true" />
+      <created>1729806755308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729806755308</updated>
+    </task>
+    <task id="LOCAL-00007" summary="naja...">
+      <option name="closed" value="true" />
+      <created>1729809163386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729809163386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="naja...">
+      <option name="closed" value="true" />
+      <created>1729809714834</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729809714834</updated>
+    </task>
+    <task id="LOCAL-00009" summary="histogram of |v| is not working, why are there nan's?">
+      <option name="closed" value="true" />
+      <created>1729812471546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729812471546</updated>
+    </task>
+    <task id="LOCAL-00010" summary="should work">
+      <option name="closed" value="true" />
+      <created>1729842861779</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729842861779</updated>
+    </task>
+    <task id="LOCAL-00011" summary="all should run">
+      <option name="closed" value="true" />
+      <created>1729843550549</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729843550549</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added some markdown">
+      <option name="closed" value="true" />
+      <created>1730411706034</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730411706034</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add introduction">
+      <option name="closed" value="true" />
+      <created>1730449068751</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730449068751</updated>
+    </task>
+    <task id="LOCAL-00014" summary="markdown is finished">
+      <option name="closed" value="true" />
+      <created>1730450213620</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730450213620</updated>
+    </task>
+    <task id="LOCAL-00015" summary="calculate temp? is correct?">
+      <option name="closed" value="true" />
+      <created>1730450416172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730450416172</updated>
+    </task>
+    <task id="LOCAL-00016" summary="temp should be correct">
+      <option name="closed" value="true" />
+      <created>1730451408634</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730451408634</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ready for print">
+      <option name="closed" value="true" />
+      <created>1730451553173</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730451553173</updated>
+    </task>
+    <task id="LOCAL-00018" summary="renamed file">
+      <option name="closed" value="true" />
+      <created>1730451893808</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730451893808</updated>
+    </task>
+    <task id="LOCAL-00019" summary="small error removed">
+      <option name="closed" value="true" />
+      <created>1730452084803</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730452084803</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1731008896495</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1731008896495</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added first text&#10;changed vector calculation to a way newer numpy understands">
+      <option name="closed" value="true" />
+      <created>1731018949568</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1731018949568</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added all markdown. Simulation runs smoothly.">
+      <option name="closed" value="true" />
+      <created>1731023147395</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1731023147395</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added comment at the end that task 2 already runs smoothly">
+      <option name="closed" value="true" />
+      <created>1731053833261</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1731053833261</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added some documentation and markdown">
+      <option name="closed" value="true" />
+      <created>1731657864985</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731657864985</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added week_4_task_1">
+      <option name="closed" value="true" />
+      <created>1731658534913</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731658534913</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added week_4_task_1">
+      <option name="closed" value="true" />
+      <created>1731658730793</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731658730793</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added week_4_task_1">
+      <option name="closed" value="true" />
+      <created>1731658758716</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1731658758716</updated>
+    </task>
+    <task id="LOCAL-00028" summary="markdwon improvements">
+      <option name="closed" value="true" />
+      <created>1731660732227</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1731660732227</updated>
+    </task>
+    <task id="LOCAL-00029" summary="markdwon improvements">
+      <option name="closed" value="true" />
+      <created>1731660763441</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1731660763441</updated>
+    </task>
+    <task id="LOCAL-00030" summary="markdwon improvements">
+      <option name="closed" value="true" />
+      <created>1731660915396</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1731660915396</updated>
+    </task>
+    <task id="LOCAL-00031" summary="markdwon improvements">
+      <option name="closed" value="true" />
+      <created>1731660972765</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1731660972765</updated>
+    </task>
+    <task id="LOCAL-00032" summary="markdwon improvements">
+      <option name="closed" value="true" />
+      <created>1731660997408</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1731660997408</updated>
+    </task>
+    <task id="LOCAL-00033" summary="some minor markdowns, not ready yet">
+      <option name="closed" value="true" />
+      <created>1732261433464</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732261433464</updated>
+    </task>
+    <task id="LOCAL-00034" summary="some more markdowns, not ready yet">
+      <option name="closed" value="true" />
+      <created>1732262684521</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1732262684521</updated>
+    </task>
+    <task id="LOCAL-00035" summary="some more markdowns, not ready yet">
+      <option name="closed" value="true" />
+      <created>1732263185046</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1732263185046</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added border control,&#10;not sure if correct" />
+    <MESSAGE value="solve visualisation error of dots in plot beeing not the correct size." />
+    <MESSAGE value="Added documentation and histograms" />
+    <MESSAGE value="adding top and bottom 10% histograms, but looks wrong" />
+    <MESSAGE value="naja..." />
+    <MESSAGE value="histogram of |v| is not working, why are there nan's?" />
+    <MESSAGE value="should work" />
+    <MESSAGE value="all should run" />
+    <MESSAGE value="added some markdown" />
+    <MESSAGE value="add introduction" />
+    <MESSAGE value="markdown is finished" />
+    <MESSAGE value="calculate temp? is correct?" />
+    <MESSAGE value="temp should be correct" />
+    <MESSAGE value="ready for print" />
+    <MESSAGE value="renamed file" />
+    <MESSAGE value="small error removed" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added first text&#10;changed vector calculation to a way newer numpy understands" />
+    <MESSAGE value="added all markdown. Simulation runs smoothly." />
+    <MESSAGE value="added comment at the end that task 2 already runs smoothly" />
+    <MESSAGE value="added some documentation and markdown" />
+    <MESSAGE value="added week_4_task_1" />
+    <MESSAGE value="markdwon improvements" />
+    <MESSAGE value="some minor markdowns, not ready yet" />
+    <MESSAGE value="some more markdowns, not ready yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more markdowns, not ready yet" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="notebook:///Users/fsonak/PycharmProjects/VL_CCS/week_2.ipynb" line="0">
+        <watch expression="x" language="Jupyter" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
