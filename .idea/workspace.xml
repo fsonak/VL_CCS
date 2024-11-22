@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="some more markdowns, not ready yet" />
+    <list default="true" id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="some more markdowns, not ready yet">
+      <change beforePath="$PROJECT_DIR$/week_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +101,7 @@
       <workItem from="1731050947520" duration="3432000" />
       <workItem from="1731503858492" duration="2671000" />
       <workItem from="1731609912052" duration="10947000" />
-      <workItem from="1732226905118" duration="5888000" />
+      <workItem from="1732226905118" duration="6310000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <option name="closed" value="true" />
@@ -421,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732264031924</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="some more markdowns, not ready yet">
+      <option name="closed" value="true" />
+      <created>1732264119059</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1732264119059</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
