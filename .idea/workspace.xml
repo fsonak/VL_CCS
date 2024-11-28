@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="some more markdowns, not ready yet">
-      <change beforePath="$PROJECT_DIR$/week_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_5.ipynb" afterDir="false" />
+    <list default="true" id="228a87cd-168d-4484-9d23-b64d0f8b7643" name="Changes" comment="task 1,2,3 should work. Partially commented">
+      <change afterPath="$PROJECT_DIR$/week_6_fs.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "week5__onwards",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,8 +74,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -101,7 +103,10 @@
       <workItem from="1731050947520" duration="3432000" />
       <workItem from="1731503858492" duration="2671000" />
       <workItem from="1731609912052" duration="10947000" />
-      <workItem from="1732226905118" duration="6310000" />
+      <workItem from="1732226905118" duration="7776000" />
+      <workItem from="1732713945854" duration="2347000" />
+      <workItem from="1732790573704" duration="1222000" />
+      <workItem from="1732791833277" duration="10565000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <option name="closed" value="true" />
@@ -431,7 +436,39 @@
       <option name="project" value="LOCAL" />
       <updated>1732264119059</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="some more markdowns, not ready yet">
+      <option name="closed" value="true" />
+      <created>1732264501294</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1732264501294</updated>
+    </task>
+    <task id="LOCAL-00043" summary="start of week_6">
+      <option name="closed" value="true" />
+      <created>1732748434041</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1732748434042</updated>
+    </task>
+    <task id="LOCAL-00044" summary="task 1 should work.">
+      <option name="closed" value="true" />
+      <created>1732808670498</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1732808670498</updated>
+    </task>
+    <task id="LOCAL-00045" summary="task 1,2,3 should work. Partially commented">
+      <option name="closed" value="true" />
+      <created>1732830283573</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1732830283573</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,9 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added border control,&#10;not sure if correct" />
-    <MESSAGE value="solve visualisation error of dots in plot beeing not the correct size." />
-    <MESSAGE value="Added documentation and histograms" />
     <MESSAGE value="adding top and bottom 10% histograms, but looks wrong" />
     <MESSAGE value="naja..." />
     <MESSAGE value="histogram of |v| is not working, why are there nan's?" />
@@ -474,13 +508,9 @@
     <MESSAGE value="markdwon improvements" />
     <MESSAGE value="some minor markdowns, not ready yet" />
     <MESSAGE value="some more markdowns, not ready yet" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more markdowns, not ready yet" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <inline-watch fileUrl="notebook:///Users/fsonak/PycharmProjects/VL_CCS/week_2.ipynb" line="0">
-        <watch expression="x" language="Jupyter" />
-      </inline-watch>
-    </watches-manager>
+    <MESSAGE value="start of week_6" />
+    <MESSAGE value="task 1 should work." />
+    <MESSAGE value="task 1,2,3 should work. Partially commented" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1,2,3 should work. Partially commented" />
   </component>
 </project>
